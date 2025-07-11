@@ -10,4 +10,4 @@
 <h3>Challenges Part</h3>
 <p>7. Users’ Feedback Section</p>
 <p>8. Button Animation - in Banner section button</p>
-<img href="./assets/ph-assignment1.png" alt="Screenshot of Assignment 1">
+<img href="assets/ph-assignment1.png" alt="Screenshot of Assignment 1">
